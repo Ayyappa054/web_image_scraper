@@ -1,78 +1,48 @@
-wed Image Scraper
+# Web_image_Scraper
 
-Overview
+Image Web Scraper is a Python-based tool that scrapes images from trusted websites based on a given keyword. It automates image collection, processes data efficiently, and stores the results in structured formats such as JSON and PDF.
 
-The Geo-Political Image Scraper is a Python-based web scraper that searches for images related to a given keyword from trusted websites using DuckDuckGo. It downloads images, saves metadata in JSON format, and generates a PDF report.
+## Features
+- **Keyword-Based Image Scraping**: Extracts images related to any given keyword.
+- **Trusted Websites Filtering**: Scrapes only from specified trusted domains to ensure data reliability.
+- **Automated Search**: Uses DuckDuckGo to find relevant pages.
+- **Efficient Web Scraping**: Supports Cloudflare-protected sites (with optional cloudscraper support).
+- **Robust Session Handling**: Implements retries and user-agent rotation to avoid request blocks.
+- **Data Storage**: Saves extracted image URLs in JSON format and generates a structured PDF report.
 
-Features
-
-Searches for images using DuckDuckGo search engine
-
-Filters results from trusted websites
-
-Downloads images and stores them locally
-
-Saves metadata in JSON format
-
-Generates a PDF report with images
-
-Implements request retries and user-agent rotation to avoid blocking
-
-Installation
-
-Prerequisites
-
-Ensure you have Python 3.7+ installed. You also need to install dependencies.
-
-Steps
-
-Clone the Repository
-
-git clone https://github.com/your-username/geo-political-image-scraper.git
-cd geo-political-image-scraper
-
-Install Dependencies
+## Installation
+### Prerequisites
+Ensure you have Python 3 installed, then install the required dependencies:
 
 pip install -r requirements.txt
 
-Usage
+If you want improved Cloudflare bypass support, install:
 
-Run the Scraper
+pip install cloudscraper
+
+
+## Usage
+1. Modify the script to specify your desired keyword and trusted websites.
+2. Run the script:
 
 python scraper.py
+3. Extracted data will be saved in the `keyword_data` folder as:
+   - `scraped_data.json`: Contains structured image URLs and their local paths.
+   - `images_document.pdf`: A formatted PDF report with downloaded images.
 
-Modify Keyword & Trusted Websites
+## Output
+- **JSON File**: Stores extracted image URLs and their local paths.
+- **PDF Report**: Includes structured images embedded in a document.
 
-Edit the following lines in scraper.py:
+## Example
+If the keyword is **"Wildlife Photography"**, the tool will:
+- Search relevant content on trusted sites.
+- Scrape and store related images.
+- Generate `scraped_data.json` and `images_document.pdf` in the output folder.
 
-keyword = "your keyword"
-trusted_websites = [your trusted websites]
+## License
+This project is open-source. Feel free to modify and enhance it!
 
-Output
-
-Images: Stored in keyword_data/images/
-
-Metadata: Stored in keyword/scraped_data.json
-
-PDF Report: Geo- keyword/images_document.pdf
-
-Dependencies
-
-requests
-
-beautifulsoup4
-
-urllib3
-
-cloudscraper (optional but recommended)
-
-reportlab
-
-Logging
-
-All activities are logged in scraper.log.
-
-License
-
-This project is licensed under the MIT License.
+## Disclaimer
+Use this scraper responsibly. Ensure compliance with website terms and conditions before extracting data.
 
