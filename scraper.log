@@ -1,0 +1,281 @@
+2025-02-26 14:51:22,305 - INFO - Created folder: Geo-political_Tension_data
+2025-02-26 14:51:22,305 - INFO - Created folder: Geo-political_Tension_data/images
+2025-02-26 14:51:22,305 - INFO - Starting scrape for keyword: Geo-political Tension
+2025-02-26 14:51:22,305 - INFO - Searching DuckDuckGo: https://duckduckgo.com/html/?q=Geo-political%20Tension
+2025-02-26 14:51:24,663 - INFO - Found 40 anchor tags
+2025-02-26 14:51:26,680 - INFO - Saved data to Geo-political_Tension_data/scraped_data.json
+2025-02-26 14:51:26,697 - INFO - Created PDF at Geo-political_Tension_data/images_document.pdf
+2025-02-26 14:51:26,698 - INFO - Scraping complete
+2025-02-26 15:00:02,179 - INFO - Created folder: Geo-political_Tension_data
+2025-02-26 15:00:02,179 - INFO - Created folder: Geo-political_Tension_data/images
+2025-02-26 15:00:02,179 - INFO - Starting scrape for keyword: Geo-political Tension
+2025-02-26 15:00:02,179 - INFO - Searching DuckDuckGo: https://duckduckgo.com/html/?q=Geo-political%20Tension
+2025-02-26 15:00:05,970 - INFO - Found 40 anchor tags
+2025-02-26 15:00:08,413 - INFO - Matched trusted URL: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-26 15:00:08,413 - INFO - Matched trusted URL: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-26 15:00:08,413 - INFO - Matched trusted URL: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-26 15:00:08,413 - INFO - Matched trusted URL: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-26 15:00:08,859 - ERROR - Error scraping images from https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk: 403 Client Error: Forbidden for url: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-26 15:00:11,149 - ERROR - Error scraping images from https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk: 403 Client Error: Forbidden for url: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-26 15:00:13,713 - ERROR - Error scraping images from https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk: 403 Client Error: Forbidden for url: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-26 15:00:15,905 - ERROR - Error scraping images from https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk: 403 Client Error: Forbidden for url: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-26 15:00:17,841 - INFO - Saved data to Geo-political_Tension_data/scraped_data.json
+2025-02-26 15:00:17,841 - INFO - Created PDF at Geo-political_Tension_data/images_document.pdf
+2025-02-26 15:00:17,841 - INFO - Scraping complete
+2025-02-26 15:06:07,838 - INFO - Created folder: Geo-political_Tension_data
+2025-02-26 15:06:07,838 - INFO - Created folder: Geo-political_Tension_data/images
+2025-02-26 15:06:07,838 - INFO - Starting scrape for keyword: Geo-political Tension
+2025-02-26 15:06:07,840 - INFO - Searching DuckDuckGo: https://duckduckgo.com/html/?q=Geo-political%20Tension
+2025-02-26 15:06:09,753 - INFO - Found 40 anchor tags
+2025-02-26 15:06:11,829 - INFO - Matched trusted URL: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-26 15:06:11,829 - INFO - Matched trusted URL: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-26 15:06:11,829 - INFO - Matched trusted URL: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-26 15:06:11,829 - INFO - Matched trusted URL: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-26 15:06:12,984 - ERROR - Error scraping images from https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk: 403 Client Error: Forbidden for url: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-26 15:06:15,057 - ERROR - Error scraping images from https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk: 403 Client Error: Forbidden for url: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-26 15:06:16,561 - ERROR - Error scraping images from https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk: 403 Client Error: Forbidden for url: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-26 15:06:19,096 - INFO - Found 137 images on https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-26 15:06:19,387 - INFO - Downloaded image: Geo-political_Tension_data/images/b83f467090394d3eb30abb626aaf0805.jpg
+2025-02-26 15:06:19,449 - INFO - Downloaded image: Geo-political_Tension_data/images/6e8643f1c6530de0aa237b1d5c514287.jpg
+2025-02-26 15:06:19,530 - INFO - Downloaded image: Geo-political_Tension_data/images/65377dac01178933b26584fe7385433c.jpg
+2025-02-26 15:06:20,758 - INFO - Downloaded image: Geo-political_Tension_data/images/69bb48390bbe914c9bdcb1fec10be10c.jpg
+2025-02-26 15:06:21,151 - INFO - Downloaded image: Geo-political_Tension_data/images/02c0fd92ab059e8beecbfb477a36032c.jpg
+2025-02-26 15:06:21,473 - INFO - Downloaded image: Geo-political_Tension_data/images/4c0b4e5d34db732beb6f45bcd563c8da.jpg
+2025-02-26 15:06:22,091 - INFO - Downloaded image: Geo-political_Tension_data/images/222a3b64ddd9db40bbb0bf4dfafc705f.jpg
+2025-02-26 15:06:23,713 - INFO - Downloaded image: Geo-political_Tension_data/images/af8ef0259df6f44611707e3392c1949f.jpg
+2025-02-26 15:06:24,129 - INFO - Downloaded image: Geo-political_Tension_data/images/7aec0e7ebd27097495ab732d7a270ea3.jpg
+2025-02-26 15:06:24,426 - INFO - Downloaded image: Geo-political_Tension_data/images/ffd236b48f08ae56c72a8713bedd49e3.jpg
+2025-02-26 15:06:24,715 - INFO - Downloaded image: Geo-political_Tension_data/images/bc1dd94665a1c47eb4d4468d96de4d20.jpg
+2025-02-26 15:06:26,158 - INFO - Downloaded image: Geo-political_Tension_data/images/397740903bc5e9a5c38692e1cf3161fd.jpg
+2025-02-26 15:06:26,295 - INFO - Downloaded image: Geo-political_Tension_data/images/aa5bc61fe28f277950e060435103acc9.jpg
+2025-02-26 15:06:26,591 - INFO - Downloaded image: Geo-political_Tension_data/images/1855a47b78a0d57be5a52fb925a24e22.jpg
+2025-02-26 15:06:28,124 - INFO - Downloaded image: Geo-political_Tension_data/images/cb677d9dbe9b89d2358979df02b1b087.jpg
+2025-02-26 15:06:28,262 - INFO - Downloaded image: Geo-political_Tension_data/images/b7ba4e122f174a29b02584fc0284e778.jpg
+2025-02-26 15:06:28,525 - INFO - Downloaded image: Geo-political_Tension_data/images/40ceaeab865e4a226a4fc182b7ce8c6b.jpg
+2025-02-26 15:06:28,849 - INFO - Downloaded image: Geo-political_Tension_data/images/4b52a39dcc295378760a706a18af3679.jpg
+2025-02-26 15:06:28,913 - INFO - Downloaded image: Geo-political_Tension_data/images/cd94d754a92298d10e18163aba385c1e.jpg
+2025-02-26 15:06:29,243 - INFO - Downloaded image: Geo-political_Tension_data/images/7530d6f855ecaf1e4a12bac35b289383.jpg
+2025-02-26 15:06:29,845 - INFO - Downloaded image: Geo-political_Tension_data/images/7c16a83374d473b622e5026ae3372b8f.jpg
+2025-02-26 15:06:30,008 - INFO - Downloaded image: Geo-political_Tension_data/images/5cabb50563cec86000fae7261d00931b.jpg
+2025-02-26 15:06:31,896 - INFO - Downloaded image: Geo-political_Tension_data/images/3d1db3e2cf5123025041ee5ddd9dbc61.jpg
+2025-02-26 15:06:32,220 - INFO - Downloaded image: Geo-political_Tension_data/images/1b19e94482801a43527ad35dfc96c250.jpg
+2025-02-26 15:06:32,328 - INFO - Downloaded image: Geo-political_Tension_data/images/63c6a17a45c5551388d94a838849c880.jpg
+2025-02-26 15:06:33,545 - INFO - Downloaded image: Geo-political_Tension_data/images/88df840a6927e090b564248af151d9b0.jpg
+2025-02-26 15:06:34,945 - INFO - Downloaded image: Geo-political_Tension_data/images/1f820c10c98e0ac1fcf565a22f9c2b93.jpg
+2025-02-26 15:06:35,912 - INFO - Downloaded image: Geo-political_Tension_data/images/86bb811cbee22f6f56944e129a1c3dc7.jpg
+2025-02-26 15:06:38,310 - INFO - Downloaded image: Geo-political_Tension_data/images/41c4e946c8924f9f913915077685cc44.jpg
+2025-02-26 15:06:39,964 - INFO - Downloaded image: Geo-political_Tension_data/images/2bf24c794d947d70ba3a7f4a63f65681.jpg
+2025-02-26 15:06:41,868 - INFO - Downloaded image: Geo-political_Tension_data/images/c06613c18f3db8b60d987fbcaf79ffef.jpg
+2025-02-26 15:06:43,214 - INFO - Downloaded image: Geo-political_Tension_data/images/460534d147a74d2a91cd84d4c94adcf5.jpg
+2025-02-26 15:06:44,289 - INFO - Downloaded image: Geo-political_Tension_data/images/826fcf21c583f2f0b6aa647295f4ab8e.jpg
+2025-02-26 15:07:14,996 - INFO - Downloaded image: Geo-political_Tension_data/images/bd4a9d335e7def8bccc7677c17d71ee4.jpg
+2025-02-26 15:07:15,861 - INFO - Downloaded image: Geo-political_Tension_data/images/0b688e9072890f1803c35be71dfaf33e.jpg
+2025-02-26 15:07:16,462 - INFO - Downloaded image: Geo-political_Tension_data/images/4067325c316a1a3177d5c7d658cade17.jpg
+2025-02-26 15:07:17,780 - INFO - Saved data to Geo-political_Tension_data/scraped_data.json
+2025-02-26 15:07:24,366 - INFO - Created PDF at Geo-political_Tension_data/images_document.pdf
+2025-02-26 15:07:24,366 - INFO - Scraping complete
+2025-02-27 15:38:15,326 - INFO - Created folder: Risk_Management_data
+2025-02-27 15:38:15,327 - INFO - Created folder: Risk_Management_data/images
+2025-02-27 15:38:15,327 - INFO - Starting scrape for keyword: Risk Management
+2025-02-27 15:38:15,327 - INFO - Searching DuckDuckGo: https://duckduckgo.com/html/?q=Risk%20Management
+2025-02-27 15:38:16,749 - INFO - Found 43 anchor tags
+2025-02-27 15:38:18,788 - INFO - Saved data to Risk_Management_data/scraped_data.json
+2025-02-27 15:38:18,818 - INFO - Created PDF at Risk_Management_data/images_document.pdf
+2025-02-27 15:38:18,818 - INFO - Scraping complete
+2025-02-27 16:12:47,178 - INFO - Created folder: Geo-political_Tension_data
+2025-02-27 16:12:47,178 - INFO - Created folder: Geo-political_Tension_data/images
+2025-02-27 16:12:47,178 - INFO - Starting scrape for keyword: Geo-political Tension
+2025-02-27 16:12:47,178 - INFO - Searching DuckDuckGo: https://duckduckgo.com/html/?q=Geo-political%20Tension
+2025-02-27 16:12:48,931 - INFO - Found 40 anchor tags
+2025-02-27 16:12:51,851 - INFO - Saved data to Geo-political_Tension_data/scraped_data.json
+2025-02-27 16:12:51,857 - INFO - Created PDF at Geo-political_Tension_data/images_document.pdf
+2025-02-27 16:12:51,857 - INFO - Scraping complete
+2025-02-27 16:15:35,762 - INFO - Created folder: Geo-political_Tension_data
+2025-02-27 16:15:35,762 - INFO - Created folder: Geo-political_Tension_data/images
+2025-02-27 16:15:35,762 - INFO - Starting scrape for keyword: Geo-political Tension
+2025-02-27 16:15:35,762 - INFO - Searching DuckDuckGo: https://duckduckgo.com/html/?q=Geo-political%20Tension
+2025-02-27 16:15:37,063 - INFO - Found 40 anchor tags
+2025-02-27 16:15:39,181 - INFO - Saved data to Geo-political_Tension_data/scraped_data.json
+2025-02-27 16:15:39,188 - INFO - Created PDF at Geo-political_Tension_data/images_document.pdf
+2025-02-27 16:15:39,188 - INFO - Scraping complete
+2025-02-27 16:20:33,092 - INFO - Created folder: Geo-political_Tension_data
+2025-02-27 16:20:33,092 - INFO - Created folder: Geo-political_Tension_data/images
+2025-02-27 16:20:33,092 - INFO - Starting scrape for keyword: Geo-political Tension
+2025-02-27 16:20:33,092 - INFO - Searching DuckDuckGo: https://duckduckgo.com/html/?q=Geo-political%20Tension
+2025-02-27 16:20:35,155 - INFO - Found 40 anchor tags
+2025-02-27 16:20:37,912 - INFO - Matched trusted URL: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 16:20:37,912 - INFO - Matched trusted URL: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 16:20:37,914 - INFO - Matched trusted URL: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 16:20:37,914 - INFO - Matched trusted URL: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 16:20:38,424 - ERROR - Error scraping images from https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk: 403 Client Error: Forbidden for url: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 16:20:41,402 - ERROR - Error scraping images from https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk: 403 Client Error: Forbidden for url: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 16:20:44,351 - ERROR - Error scraping images from https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk: 403 Client Error: Forbidden for url: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 16:20:48,133 - INFO - Found 137 images on https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 16:20:48,458 - INFO - Downloaded image: Geo-political_Tension_data/images/b83f467090394d3eb30abb626aaf0805.jpg
+2025-02-27 16:20:48,513 - INFO - Downloaded image: Geo-political_Tension_data/images/6e8643f1c6530de0aa237b1d5c514287.jpg
+2025-02-27 16:20:48,566 - INFO - Downloaded image: Geo-political_Tension_data/images/65377dac01178933b26584fe7385433c.jpg
+2025-02-27 16:20:49,683 - INFO - Downloaded image: Geo-political_Tension_data/images/69bb48390bbe914c9bdcb1fec10be10c.jpg
+2025-02-27 16:20:49,717 - INFO - Downloaded image: Geo-political_Tension_data/images/02c0fd92ab059e8beecbfb477a36032c.jpg
+2025-02-27 16:20:50,440 - INFO - Downloaded image: Geo-political_Tension_data/images/4c0b4e5d34db732beb6f45bcd563c8da.jpg
+2025-02-27 16:20:50,480 - INFO - Downloaded image: Geo-political_Tension_data/images/222a3b64ddd9db40bbb0bf4dfafc705f.jpg
+2025-02-27 16:20:50,965 - INFO - Downloaded image: Geo-political_Tension_data/images/af8ef0259df6f44611707e3392c1949f.jpg
+2025-02-27 16:20:52,031 - INFO - Downloaded image: Geo-political_Tension_data/images/7aec0e7ebd27097495ab732d7a270ea3.jpg
+2025-02-27 16:20:52,098 - INFO - Downloaded image: Geo-political_Tension_data/images/ffd236b48f08ae56c72a8713bedd49e3.jpg
+2025-02-27 16:20:52,199 - INFO - Downloaded image: Geo-political_Tension_data/images/bc1dd94665a1c47eb4d4468d96de4d20.jpg
+2025-02-27 16:20:53,258 - INFO - Downloaded image: Geo-political_Tension_data/images/397740903bc5e9a5c38692e1cf3161fd.jpg
+2025-02-27 16:20:53,315 - INFO - Downloaded image: Geo-political_Tension_data/images/aa5bc61fe28f277950e060435103acc9.jpg
+2025-02-27 16:20:54,420 - INFO - Downloaded image: Geo-political_Tension_data/images/1855a47b78a0d57be5a52fb925a24e22.jpg
+2025-02-27 16:20:54,680 - INFO - Downloaded image: Geo-political_Tension_data/images/cb677d9dbe9b89d2358979df02b1b087.jpg
+2025-02-27 16:20:54,749 - INFO - Downloaded image: Geo-political_Tension_data/images/b7ba4e122f174a29b02584fc0284e778.jpg
+2025-02-27 16:20:55,130 - INFO - Downloaded image: Geo-political_Tension_data/images/40ceaeab865e4a226a4fc182b7ce8c6b.jpg
+2025-02-27 16:20:55,812 - INFO - Downloaded image: Geo-political_Tension_data/images/4b52a39dcc295378760a706a18af3679.jpg
+2025-02-27 16:20:55,867 - INFO - Downloaded image: Geo-political_Tension_data/images/cd94d754a92298d10e18163aba385c1e.jpg
+2025-02-27 16:20:56,520 - INFO - Downloaded image: Geo-political_Tension_data/images/7530d6f855ecaf1e4a12bac35b289383.jpg
+2025-02-27 16:20:57,166 - INFO - Downloaded image: Geo-political_Tension_data/images/7c16a83374d473b622e5026ae3372b8f.jpg
+2025-02-27 16:20:59,112 - INFO - Downloaded image: Geo-political_Tension_data/images/5cabb50563cec86000fae7261d00931b.jpg
+2025-02-27 16:21:00,261 - INFO - Downloaded image: Geo-political_Tension_data/images/3d1db3e2cf5123025041ee5ddd9dbc61.jpg
+2025-02-27 16:21:01,430 - INFO - Downloaded image: Geo-political_Tension_data/images/1b19e94482801a43527ad35dfc96c250.jpg
+2025-02-27 16:21:02,660 - INFO - Downloaded image: Geo-political_Tension_data/images/63c6a17a45c5551388d94a838849c880.jpg
+2025-02-27 16:21:02,897 - INFO - Downloaded image: Geo-political_Tension_data/images/88df840a6927e090b564248af151d9b0.jpg
+2025-02-27 16:21:03,262 - INFO - Downloaded image: Geo-political_Tension_data/images/1f820c10c98e0ac1fcf565a22f9c2b93.jpg
+2025-02-27 16:21:06,112 - INFO - Downloaded image: Geo-political_Tension_data/images/86bb811cbee22f6f56944e129a1c3dc7.jpg
+2025-02-27 16:21:06,217 - INFO - Downloaded image: Geo-political_Tension_data/images/41c4e946c8924f9f913915077685cc44.jpg
+2025-02-27 16:21:06,460 - INFO - Downloaded image: Geo-political_Tension_data/images/2bf24c794d947d70ba3a7f4a63f65681.jpg
+2025-02-27 16:21:07,315 - INFO - Downloaded image: Geo-political_Tension_data/images/c06613c18f3db8b60d987fbcaf79ffef.jpg
+2025-02-27 16:21:07,937 - INFO - Downloaded image: Geo-political_Tension_data/images/460534d147a74d2a91cd84d4c94adcf5.jpg
+2025-02-27 16:21:08,273 - INFO - Downloaded image: Geo-political_Tension_data/images/826fcf21c583f2f0b6aa647295f4ab8e.jpg
+2025-02-27 16:21:09,518 - INFO - Downloaded image: Geo-political_Tension_data/images/bd4a9d335e7def8bccc7677c17d71ee4.jpg
+2025-02-27 16:21:09,964 - INFO - Downloaded image: Geo-political_Tension_data/images/0b688e9072890f1803c35be71dfaf33e.jpg
+2025-02-27 16:21:10,315 - INFO - Downloaded image: Geo-political_Tension_data/images/4067325c316a1a3177d5c7d658cade17.jpg
+2025-02-27 16:21:12,741 - INFO - Saved data to Geo-political_Tension_data/scraped_data.json
+2025-02-27 16:21:19,871 - INFO - Created PDF at Geo-political_Tension_data/images_document.pdf
+2025-02-27 16:21:19,873 - INFO - Scraping complete
+2025-02-27 16:37:25,428 - INFO - Created folder: Geo-political_Tension_data
+2025-02-27 16:37:25,433 - INFO - Created folder: Geo-political_Tension_data/images
+2025-02-27 16:37:25,433 - INFO - Starting scrape for keyword: Geo-political Tension
+2025-02-27 16:37:25,433 - INFO - Searching DuckDuckGo: https://duckduckgo.com/html/?q=Geo-political%20Tension
+2025-02-27 16:37:27,716 - INFO - Found 40 anchor tags
+2025-02-27 16:37:30,662 - INFO - Matched trusted URL: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 16:37:30,662 - INFO - Matched trusted URL: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 16:37:30,664 - INFO - Matched trusted URL: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 16:37:30,665 - INFO - Matched trusted URL: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 16:37:31,168 - ERROR - Error scraping images from https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk: 403 Client Error: Forbidden for url: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 16:37:34,238 - ERROR - Error scraping images from https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk: 403 Client Error: Forbidden for url: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 16:37:35,470 - ERROR - Error scraping images from https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk: 403 Client Error: Forbidden for url: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 16:37:37,519 - ERROR - Error scraping images from https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk: 403 Client Error: Forbidden for url: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 16:37:39,488 - INFO - Saved data to Geo-political_Tension_data/scraped_data.json
+2025-02-27 16:37:39,508 - INFO - Created PDF at Geo-political_Tension_data/images_document.pdf
+2025-02-27 16:37:39,508 - INFO - Scraping complete
+2025-02-27 16:38:40,743 - INFO - Created folder: Geo-political_Tension_data
+2025-02-27 16:38:40,743 - INFO - Created folder: Geo-political_Tension_data/images
+2025-02-27 16:38:40,743 - INFO - Starting scrape for keyword: Geo-political Tension
+2025-02-27 16:38:40,743 - INFO - Searching DuckDuckGo: https://duckduckgo.com/html/?q=Geo-political%20Tension
+2025-02-27 16:38:42,270 - INFO - Found 40 anchor tags
+2025-02-27 16:38:44,764 - INFO - Matched trusted URL: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 16:38:44,764 - INFO - Matched trusted URL: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 16:38:44,764 - INFO - Matched trusted URL: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 16:38:44,764 - INFO - Matched trusted URL: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 16:38:45,118 - ERROR - Error scraping images from https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk: 403 Client Error: Forbidden for url: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 16:38:47,358 - ERROR - Error scraping images from https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk: 403 Client Error: Forbidden for url: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 16:38:48,999 - ERROR - Error scraping images from https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk: 403 Client Error: Forbidden for url: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 16:38:51,559 - ERROR - Error scraping images from https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk: 403 Client Error: Forbidden for url: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 16:38:52,873 - INFO - Saved data to Geo-political_Tension_data/scraped_data.json
+2025-02-27 16:38:52,878 - INFO - Created PDF at Geo-political_Tension_data/images_document.pdf
+2025-02-27 16:38:52,881 - INFO - Scraping complete
+2025-02-27 16:39:58,399 - INFO - Created folder: Geo-political_Tension_data
+2025-02-27 16:39:58,399 - INFO - Created folder: Geo-political_Tension_data/images
+2025-02-27 16:39:58,399 - INFO - Starting scrape for keyword: Geo-political Tension
+2025-02-27 16:39:58,399 - INFO - Searching DuckDuckGo: https://duckduckgo.com/html/?q=Geo-political%20Tension
+2025-02-27 16:39:59,675 - INFO - Found 40 anchor tags
+2025-02-27 16:40:02,107 - INFO - Matched trusted URL: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 16:40:02,107 - INFO - Matched trusted URL: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 16:40:02,107 - INFO - Matched trusted URL: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 16:40:02,109 - INFO - Matched trusted URL: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 16:40:02,516 - ERROR - Error scraping images from https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk: 403 Client Error: Forbidden for url: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 16:40:05,176 - ERROR - Error scraping images from https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk: 403 Client Error: Forbidden for url: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 16:40:07,056 - INFO - Found 137 images on https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 16:40:09,644 - ERROR - Error scraping images from https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk: 403 Client Error: Forbidden for url: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 16:40:12,255 - INFO - Saved data to Geo-political_Tension_data/scraped_data.json
+2025-02-27 16:40:18,539 - INFO - Created PDF at Geo-political_Tension_data/images_document.pdf
+2025-02-27 16:40:18,539 - INFO - Scraping complete
+2025-02-27 16:41:38,644 - INFO - Created folder: Geo-political_Tension_data
+2025-02-27 16:41:38,644 - INFO - Created folder: Geo-political_Tension_data/images
+2025-02-27 16:41:38,644 - INFO - Starting scrape for keyword: Geo-political Tension
+2025-02-27 16:41:38,644 - INFO - Searching DuckDuckGo: https://duckduckgo.com/html/?q=Geo-political%20Tension
+2025-02-27 16:41:38,672 - WARNING - Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001DEC420FDA0>: Failed to resolve 'duckduckgo.com' ([Errno 11001] getaddrinfo failed)")': /html/?q=Geo-political%20Tension
+2025-02-27 16:41:39,674 - WARNING - Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001DEC5035190>: Failed to resolve 'duckduckgo.com' ([Errno 11001] getaddrinfo failed)")': /html/?q=Geo-political%20Tension
+2025-02-27 16:41:41,675 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001DEC5035340>: Failed to resolve 'duckduckgo.com' ([Errno 11001] getaddrinfo failed)")': /html/?q=Geo-political%20Tension
+2025-02-27 16:41:45,680 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001DEC50354F0>: Failed to resolve 'duckduckgo.com' ([Errno 11001] getaddrinfo failed)")': /html/?q=Geo-political%20Tension
+2025-02-27 16:41:53,695 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001DEC50356A0>: Failed to resolve 'duckduckgo.com' ([Errno 11001] getaddrinfo failed)")': /html/?q=Geo-political%20Tension
+2025-02-27 16:42:04,829 - ERROR - Error searching DuckDuckGo: HTTPSConnectionPool(host='duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=Geo-political%20Tension (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001DEC5035850>: Failed to resolve 'duckduckgo.com' ([Errno 11001] getaddrinfo failed)"))
+2025-02-27 16:42:07,477 - INFO - Saved data to Geo-political_Tension_data/scraped_data.json
+2025-02-27 16:42:07,484 - INFO - Created PDF at Geo-political_Tension_data/images_document.pdf
+2025-02-27 16:42:07,484 - INFO - Scraping complete
+2025-02-27 18:59:57,695 - INFO - Created folder: Geo-political_Tension_data
+2025-02-27 18:59:57,699 - INFO - Created folder: Geo-political_Tension_data/images
+2025-02-27 18:59:57,699 - INFO - Starting scrape for keyword: Geo-political Tension
+2025-02-27 18:59:57,699 - INFO - Searching DuckDuckGo: https://duckduckgo.com/html/?q=Geo-political%20Tension
+2025-02-27 18:59:59,156 - INFO - Found 40 anchor tags
+2025-02-27 19:00:02,044 - INFO - Matched trusted URL: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 19:00:02,044 - INFO - Matched trusted URL: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 19:00:02,044 - INFO - Matched trusted URL: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 19:00:02,044 - INFO - Matched trusted URL: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 19:00:02,446 - ERROR - Error scraping images from https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk: 403 Client Error: Forbidden for url: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 19:00:04,899 - ERROR - Error scraping images from https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk: 403 Client Error: Forbidden for url: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 19:00:07,829 - ERROR - Error scraping images from https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk: 403 Client Error: Forbidden for url: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 19:00:10,389 - ERROR - Error scraping images from https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk: 403 Client Error: Forbidden for url: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 19:00:11,400 - INFO - Saved data to Geo-political_Tension_data/scraped_data.json
+2025-02-27 19:00:11,405 - INFO - Created PDF at Geo-political_Tension_data/images_document.pdf
+2025-02-27 19:00:11,405 - INFO - Scraping complete
+2025-02-27 19:05:20,575 - INFO - Created folder: Geo-political_Tension_data
+2025-02-27 19:05:20,575 - INFO - Created folder: Geo-political_Tension_data/images
+2025-02-27 19:05:20,575 - INFO - Starting scrape for keyword: Geo-political Tension
+2025-02-27 19:05:20,575 - INFO - Searching DuckDuckGo: https://duckduckgo.com/html/?q=Geo-political%20Tension
+2025-02-27 19:05:22,567 - INFO - Found 40 anchor tags
+2025-02-27 19:05:24,933 - INFO - Matched trusted URL: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 19:05:24,935 - INFO - Matched trusted URL: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 19:05:24,937 - INFO - Matched trusted URL: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 19:05:24,937 - INFO - Matched trusted URL: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 19:05:25,367 - ERROR - Error scraping images from https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk: 403 Client Error: Forbidden for url: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 19:05:27,032 - ERROR - Error scraping images from https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk: 403 Client Error: Forbidden for url: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 19:05:31,086 - INFO - Found 137 images on https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 19:05:31,749 - INFO - Downloaded image: Geo-political_Tension_data/images/b83f467090394d3eb30abb626aaf0805.jpg
+2025-02-27 19:05:31,818 - INFO - Downloaded image: Geo-political_Tension_data/images/6e8643f1c6530de0aa237b1d5c514287.jpg
+2025-02-27 19:05:32,123 - INFO - Downloaded image: Geo-political_Tension_data/images/65377dac01178933b26584fe7385433c.jpg
+2025-02-27 19:05:32,169 - INFO - Downloaded image: Geo-political_Tension_data/images/69bb48390bbe914c9bdcb1fec10be10c.jpg
+2025-02-27 19:05:32,522 - INFO - Downloaded image: Geo-political_Tension_data/images/02c0fd92ab059e8beecbfb477a36032c.jpg
+2025-02-27 19:05:33,032 - INFO - Downloaded image: Geo-political_Tension_data/images/4c0b4e5d34db732beb6f45bcd563c8da.jpg
+2025-02-27 19:05:33,111 - INFO - Downloaded image: Geo-political_Tension_data/images/222a3b64ddd9db40bbb0bf4dfafc705f.jpg
+2025-02-27 19:05:33,837 - INFO - Downloaded image: Geo-political_Tension_data/images/af8ef0259df6f44611707e3392c1949f.jpg
+2025-02-27 19:05:33,906 - INFO - Downloaded image: Geo-political_Tension_data/images/7aec0e7ebd27097495ab732d7a270ea3.jpg
+2025-02-27 19:05:35,553 - INFO - Downloaded image: Geo-political_Tension_data/images/ffd236b48f08ae56c72a8713bedd49e3.jpg
+2025-02-27 19:05:35,874 - INFO - Downloaded image: Geo-political_Tension_data/images/bc1dd94665a1c47eb4d4468d96de4d20.jpg
+2025-02-27 19:05:35,932 - INFO - Downloaded image: Geo-political_Tension_data/images/397740903bc5e9a5c38692e1cf3161fd.jpg
+2025-02-27 19:05:36,448 - INFO - Downloaded image: Geo-political_Tension_data/images/aa5bc61fe28f277950e060435103acc9.jpg
+2025-02-27 19:05:36,528 - INFO - Downloaded image: Geo-political_Tension_data/images/1855a47b78a0d57be5a52fb925a24e22.jpg
+2025-02-27 19:05:36,642 - INFO - Downloaded image: Geo-political_Tension_data/images/cb677d9dbe9b89d2358979df02b1b087.jpg
+2025-02-27 19:05:36,705 - INFO - Downloaded image: Geo-political_Tension_data/images/b7ba4e122f174a29b02584fc0284e778.jpg
+2025-02-27 19:05:36,781 - INFO - Downloaded image: Geo-political_Tension_data/images/40ceaeab865e4a226a4fc182b7ce8c6b.jpg
+2025-02-27 19:05:37,533 - INFO - Downloaded image: Geo-political_Tension_data/images/4b52a39dcc295378760a706a18af3679.jpg
+2025-02-27 19:05:37,818 - INFO - Downloaded image: Geo-political_Tension_data/images/cd94d754a92298d10e18163aba385c1e.jpg
+2025-02-27 19:05:39,523 - INFO - Downloaded image: Geo-political_Tension_data/images/7530d6f855ecaf1e4a12bac35b289383.jpg
+2025-02-27 19:05:39,595 - INFO - Downloaded image: Geo-political_Tension_data/images/7c16a83374d473b622e5026ae3372b8f.jpg
+2025-02-27 19:05:40,878 - INFO - Downloaded image: Geo-political_Tension_data/images/5cabb50563cec86000fae7261d00931b.jpg
+2025-02-27 19:05:41,198 - INFO - Downloaded image: Geo-political_Tension_data/images/3d1db3e2cf5123025041ee5ddd9dbc61.jpg
+2025-02-27 19:05:41,543 - INFO - Downloaded image: Geo-political_Tension_data/images/1b19e94482801a43527ad35dfc96c250.jpg
+2025-02-27 19:05:42,115 - INFO - Downloaded image: Geo-political_Tension_data/images/63c6a17a45c5551388d94a838849c880.jpg
+2025-02-27 19:05:42,903 - INFO - Downloaded image: Geo-political_Tension_data/images/88df840a6927e090b564248af151d9b0.jpg
+2025-02-27 19:05:43,015 - INFO - Downloaded image: Geo-political_Tension_data/images/1f820c10c98e0ac1fcf565a22f9c2b93.jpg
+2025-02-27 19:05:43,111 - INFO - Downloaded image: Geo-political_Tension_data/images/86bb811cbee22f6f56944e129a1c3dc7.jpg
+2025-02-27 19:05:48,388 - INFO - Downloaded image: Geo-political_Tension_data/images/41c4e946c8924f9f913915077685cc44.jpg
+2025-02-27 19:05:48,442 - INFO - Downloaded image: Geo-political_Tension_data/images/2bf24c794d947d70ba3a7f4a63f65681.jpg
+2025-02-27 19:05:52,897 - INFO - Downloaded image: Geo-political_Tension_data/images/c06613c18f3db8b60d987fbcaf79ffef.jpg
+2025-02-27 19:05:55,736 - INFO - Downloaded image: Geo-political_Tension_data/images/460534d147a74d2a91cd84d4c94adcf5.jpg
+2025-02-27 19:05:55,872 - INFO - Downloaded image: Geo-political_Tension_data/images/826fcf21c583f2f0b6aa647295f4ab8e.jpg
+2025-02-27 19:05:55,983 - INFO - Downloaded image: Geo-political_Tension_data/images/bd4a9d335e7def8bccc7677c17d71ee4.jpg
+2025-02-27 19:05:56,114 - INFO - Downloaded image: Geo-political_Tension_data/images/0b688e9072890f1803c35be71dfaf33e.jpg
+2025-02-27 19:05:56,276 - INFO - Downloaded image: Geo-political_Tension_data/images/4067325c316a1a3177d5c7d658cade17.jpg
+2025-02-27 19:05:58,807 - ERROR - Error scraping images from https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk: 403 Client Error: Forbidden for url: https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk
+2025-02-27 19:06:00,716 - INFO - Saved data to Geo-political_Tension_data/scraped_data.json
+2025-02-27 19:06:08,557 - INFO - Created PDF at Geo-political_Tension_data/images_document.pdf
+2025-02-27 19:06:08,558 - INFO - Scraping complete
